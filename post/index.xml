@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aloha!</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Aloha!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Apr 2015 01:55:55 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>cv</title>
+      <link>http://localhost:1313/post/CV/</link>
+      <pubDate>Fri, 24 Apr 2015 01:55:55 +1000</pubDate>
+      
+      <guid>http://localhost:1313/post/CV/</guid>
+      <description>
+
+&lt;h2 id=&#34;basic-information:9050bfbb5830a4cf272651225847860e&#34;&gt;Basic information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Name:&lt;/strong&gt; Xiaoxuan TANG&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Age:&lt;/strong&gt; 24&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Nationality:&lt;/strong&gt; Chinese&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;contact-me:9050bfbb5830a4cf272651225847860e&#34;&gt;Contact me&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:crayontxx@live.com&#34;&gt;crayontxx@live.com&lt;/a&gt; or &lt;a href=&#34;mailto:xiaoxuant@student.unimelb.edu.au&#34;&gt;xiaoxuant@student.unimelb.edu.au&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 0402844028&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;education-background:9050bfbb5830a4cf272651225847860e&#34;&gt;Education background&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Master
+
+&lt;ul&gt;
+&lt;li&gt;University of Melbourne&lt;/li&gt;
+&lt;li&gt;Master of Engineering(software engineering)&lt;/li&gt;
+&lt;li&gt;2014 - 2016(expected)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Bachelor
+
+&lt;ul&gt;
+&lt;li&gt;Shanghai Jiaotong University&lt;/li&gt;
+&lt;li&gt;Bachelor of Engineering(software engineering)&lt;/li&gt;
+&lt;li&gt;2009 - 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;intern-experience:9050bfbb5830a4cf272651225847860e&#34;&gt;Intern experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;iOS engineer at &lt;a href=&#34;http://www.intsig.com/en/&#34;&gt;&lt;strong&gt;IntSig Information Co., Ltd&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;participated in the process of design and developing an chat app on iOS&lt;/li&gt;
+&lt;li&gt;this is the place where I systematically approached to iOS&lt;/li&gt;
+&lt;li&gt;Nov 2012 - May 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R&amp;amp;D engineer at &lt;a href=&#34;http://www.digiwin.com.cn/&#34;&gt;&lt;strong&gt;Digiwin Soft&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;participated in the development process of an ERP product&lt;/li&gt;
+&lt;li&gt;gained a practical understanding about web app design&lt;/li&gt;
+&lt;li&gt;gained some experience in using some JS frameworks, such as Sencha&lt;/li&gt;
+&lt;li&gt;May 2013 - Jul 2013&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;work-experience:9050bfbb5830a4cf272651225847860e&#34;&gt;Work experience&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iOS engineer at &lt;a href=&#34;http://www.massvig.com/&#34;&gt;&lt;strong&gt;Massvig Ltd.,Co, Shanghai&lt;/strong&gt;&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;took charge of the development and maintenance of e-commerce iOS apps&lt;/li&gt;
+&lt;li&gt;developed some static library for specific requirement&lt;/li&gt;
+&lt;li&gt;Aug 2013 - Jun 2014&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;product:9050bfbb5830a4cf272651225847860e&#34;&gt;Product&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/cn/app/justyle-guan-fang-shang-cheng/id728271661?l=en&amp;amp;mt=8&#34;&gt;Justyle&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iOS e-commerce app.&lt;/li&gt;
+&lt;li&gt;completed during my full-time job&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/en/app/zou-qi-shi-nei-dao-hang/id896339615&#34;&gt;Zouqi indoor guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iOS indoor guide app integrated with O2O thought&lt;/li&gt;
+&lt;li&gt;taking advantage of iBeacon for guide&lt;/li&gt;
+&lt;li&gt;completed alpha version during my full-time job&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/en/app/shang-hai-qing-qi-xie/id880237596&#34;&gt;Shanghai Young Entrepreneur Information Exchange Platform&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an iOS app for that platform&lt;/li&gt;
+&lt;li&gt;an outsourcing project with 2 other people&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and more&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;project:9050bfbb5830a4cf272651225847860e&#34;&gt;Project&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Shift&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an Windows Phone 7 game for Microsoft Imagine Cup&lt;/li&gt;
+&lt;li&gt;completed during Bachelor course&lt;/li&gt;
+&lt;li&gt;working with 2 other classmates&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Wikipedia on Android&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an Android app for access to Wikipedia&lt;/li&gt;
+&lt;li&gt;it is a individual summer school project during Bachelor course&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;and other non-mobile project&amp;hellip;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-is-more:9050bfbb5830a4cf272651225847860e&#34;&gt;What is more&lt;/h2&gt;
+
+&lt;p&gt;I am a person with much interest in computer, with the ability of self-motivation and self-driven. My aim is to become not only an excellent mobile engineer, but a full stack engineer as well.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
